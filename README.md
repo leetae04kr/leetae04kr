@@ -25,7 +25,6 @@ i can code <br>
 <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
 
 <br>i can use <br>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHub Pages&logoColor=white"/>
