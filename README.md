@@ -1,3 +1,4 @@
+<div align="center">
 
 my korean name is <strong>leetaeyoung</strong><br> 
 korean spell is  <strong>이태영</strong><br>
@@ -42,7 +43,8 @@ i can code <br>
 <img src="https://img.shields.io/badge/Sony-000000?style=flat-square&logo=macOS&logoColor=white"/>  sony wf-1000xm4
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leetae04kr)](https://github.com/leetae04kr/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leetae04kr)](https://github.com/leetae04kr/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leetae04kr)](https://github.com/leetae04kr/github-readme-stats)
 
+</div>
