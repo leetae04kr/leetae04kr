@@ -38,7 +38,6 @@ i can code <br>
 
 <br>I use<br>
 <img src="https://img.shields.io/badge/Samsung-000000?style=flat-square&logo=Samsung&logoColor=white"/> samsung galaxy fold <br>
-<img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/> apple ipad air 4th<br>
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/> apple mac book air m1<br>
 <img src="https://img.shields.io/badge/Sony-000000?style=flat-square&logo=macOS&logoColor=white"/>  sony wf-1000xm4
 
