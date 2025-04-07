@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 my korean name is <strong>leetaeyoung</strong><br> 
 korean spell is  <strong>이태영</strong><br>
